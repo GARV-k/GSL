@@ -176,7 +176,6 @@ else:
         
 
         if use_saved_model == 'False':
-            splits = 3
 
             acc_list = []            
             # training of the model
